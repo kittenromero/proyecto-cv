@@ -1,0 +1,55 @@
+body {
+    background-color: #d0e5e6;
+}
+h1 {
+    margin: 50px;
+    background-color: #05467c;
+    text-align: center;
+    color: #DEE4DE;
+    font-size: 50px;
+    border-radius:10px;
+}
+.titulo-de-opciones {
+    font-size: 40px;
+    color: grey;
+    font-family: 'Gloock', serif;
+    text-align: center;
+    margin: 25px
+}
+p {
+    color: #157ead;
+    font-family: 'Gloock', serif;
+}
+#historia {
+    color: #1D3B11;
+    font-family: 'Handlee', cursive;
+    font-size: 35px
+}
+.opciones {
+    padding: 10px;
+    position: relative;
+    margin-right: 12px;
+    font-size: 20px;
+    border-radius: 2px;
+    border: 1px solid ;
+    font-family: 'Gloock', serif;
+    text-decoration: none;
+
+}
+#idioma {
+    font-size: 20px;
+
+}
+.lista {
+    font-family: 'Gloock', serif;
+    font-size:20px;
+    color: #1D3B11;
+}
+#saludo-telefono {
+    color: #1D3B11;
+    font-family: 'Gloock', serif
+}
+.contacto {
+    color: #1D3B11;
+    font-family: 'Gloock', serif
+}
